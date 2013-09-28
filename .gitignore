@@ -1,0 +1,11 @@
+# exclude github.com/almereyda/DynamicGrid in ./perpetual_beta
+perpetual_beta/
+
+# exclude piwik
+piwik/
+
+# exclude media
+media/
+
+# exclude tinytiny
+tinytiny/
